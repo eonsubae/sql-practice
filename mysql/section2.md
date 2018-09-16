@@ -27,7 +27,7 @@ Database vs Database Management System
   - Database Management System
   - relational database management system
   - DMX
-  - RBDMS
+  - RDBMS
 * 데이터베이스는 수많은 저장된 데이터의 집합을 의미한다
   - 그러나 여러 데이터를 저장하는 것만으로는 데이터베이스를 통해 얻으려는 기능을 충분히 제공받지 못한다
 * DBMS
